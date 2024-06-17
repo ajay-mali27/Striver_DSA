@@ -10,6 +10,7 @@ public class J4_ForLoop {
 
         }
         System.out.println(i);
+        System.out.println(i);
     }
 
 }
